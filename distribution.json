@@ -8,9 +8,9 @@
   },
   "servers": [
     {
-      "id": "PKC-1.12.2",
-      "name": "PKC (Minecraft 1.12.2)",
-      "description": "PKC 서버 메인 클라이언트입니당!",
+      "id": "Sky-1.12.2",
+      "name": "Sky (Minecraft 1.12.2)",
+      "description": "Sky 서버 메인 클라이언트입니당!",
       "icon": "https://i.ibb.co/TPLb4Lp/60-CB9-BF1-2223-44-D2-92-F0-8732447-A5-E2-B.png",
       "version": "1.0.0",
       "address": "pkc.fxh.kr:25565",
@@ -256,46 +256,6 @@
           ]
         },
         {
-          "id": "moe.plushie:armourers_workshop:1.12.2-0.51.0@jar",
-          "name": "Armourers-Workshop-1.12.2-0.51.0",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2678747,
-            "url": "https://raw.githubusercontent.com/seunghoon4176/PKC-Launcher/main/servers/PKC-1.12.2/forgemods/required/Armourers-Workshop-1.12.2-0.51.0.jar",
-            "MD5": "12954551f39bed840b32fd8be8fddb54"
-          }
-        },
-        {
-          "id": "noppes.npcs:customnpcs:1.12@jar",
-          "name": "CustomNPCs",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 9911871,
-            "url": "https://raw.githubusercontent.com/seunghoon4176/PKC-Launcher/main/servers/PKC-1.12.2/forgemods/required/CustomNPCs_1.12.2-(05Jul20).jar",
-            "MD5": "3ab1a5c4b069d574631da5bc1880ebf7"
-          }
-        },
-        {
-          "id": "mezz.jei:jei:4.15.0.293@jar",
-          "name": "Just Enough Items",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 653044,
-            "url": "https://raw.githubusercontent.com/seunghoon4176/PKC-Launcher/main/servers/PKC-1.12.2/forgemods/required/jei_1.12.2-4.15.0.293.jar",
-            "MD5": "32541b3176b0d4b24af71836a52bc070"
-          }
-        },
-        {
-          "id": "journeymap:journeymap:1.12.2-5.7.0@jar",
-          "name": "JourneyMap",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 6990613,
-            "url": "https://raw.githubusercontent.com/seunghoon4176/PKC-Launcher/main/servers/PKC-1.12.2/forgemods/required/journeymap-1.12.2-5.7.0.jar",
-            "MD5": "3825ed0144c5cbf4d30760bec96d5843"
-          }
-        },
-        {
           "id": "creo.mod:koreanchat:1.12-1.9@jar",
           "name": "Korean Chat",
           "type": "ForgeMod",
@@ -306,16 +266,6 @@
           },
           "required": {
             "value": false
-          }
-        },
-        {
-          "id": "net.montoyo:mcef:1.12.2-0.9@jar",
-          "name": "Minecraft Chromium Embedded Framework",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 323311,
-            "url": "https://raw.githubusercontent.com/seunghoon4176/PKC-Launcher/main/servers/PKC-1.12.2/forgemods/required/Minecraft-Chromium-Embedded-Framework-1.12.2.jar",
-            "MD5": "dbdb8e026ec019f49ea873c9c2a130b3"
           }
         },
         {
@@ -332,16 +282,6 @@
           }
         },
         {
-          "id": "generated.forgemod:pixelmon:8.3.5@jar",
-          "name": "Pixelmon",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 390298293,
-            "url": "https://www.dropbox.com/s/1ul93oswxhuzduw/Pixelmon-1.12.2-8.3.4-universal.jar?dl=1",
-            "MD5": "c5ceda49a5e97fd44caa2785eef04c9c"
-          }
-        },
-        {
           "id": "bre.smoothfont:smoothfont:1.12.2-1.15@jar",
           "name": "Smooth Font",
           "type": "ForgeMod",
@@ -352,26 +292,6 @@
           },
           "required": {
             "value": false
-          }
-        },
-        {
-          "id": "noppes.vc:variedcommodities:1.0@jar",
-          "name": "Varied Commodities",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1567926,
-            "url": "https://raw.githubusercontent.com/seunghoon4176/PKC-Launcher/main/servers/PKC-1.12.2/forgemods/required/VariedCommodities_1.12.221nov19_1.jar",
-            "MD5": "c4abbbf3e8705c5be1769f7617041803"
-          }
-        },
-        {
-          "id": "net.montoyo.wd:webdisplays:1.12.2-1.0@jar",
-          "name": "WebDisplays",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 688747,
-            "url": "https://raw.githubusercontent.com/seunghoon4176/PKC-Launcher/main/servers/PKC-1.12.2/forgemods/required/Web-Displays-Mod-1.12.2.jar",
-            "MD5": "a54bcecab7c5c3212fccc31be73dea38"
           }
         }
       ]
