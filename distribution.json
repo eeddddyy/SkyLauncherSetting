@@ -8,9 +8,9 @@
   },
   "servers": [
     {
-      "id": "beeserver-1.12.2",
-      "name": "beeserver (Minecraft 1.12.2)",
-      "description": "beeserver Running Minecraft 1.12.2 (Forge v14.23.5.2860)",
+      "id": "Hypixelserver-1.12.2",
+      "name": "hypixelserver (Minecraft 1.12.2)",
+      "description": "hypixelserver Running Minecraft 1.12.2 (Forge v14.23.5.2860)",
       "icon": null,
       "version": "1.0.0",
       "address": "hypixel.net",
