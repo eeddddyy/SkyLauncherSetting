@@ -2,13 +2,9 @@
   "$schema": "file:///C:/Users/ssh41/Desktop/distro/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "PKC (Minecraft 1.12.2)",
-    "description": "PKC Running Minecraft 1.12.2 (Forge v14.23.5.2860)",
-    "address": "localhost:25565",
-    "discord": {
-      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    "name": "Sky (Minecraft 1.12.2)",
+    "description": "Sky Running Minecraft 1.12.2 (Forge v14.23.5.2860)",
+    "address": "Sky1.kro.kr",
     },
     "mainServer": false,
     "autoconnect": false
